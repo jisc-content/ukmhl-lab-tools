@@ -1,0 +1,3 @@
+paths  = dict(
+	csv_file = 'path to csv',
+)
