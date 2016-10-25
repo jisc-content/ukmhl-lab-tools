@@ -1,3 +1,3 @@
 paths  = dict(
-	input_file = '/Users/danielneedham/projects/ukmhl/ukmhl-lab-tools/toolset/data/publications.csv',
+	input_file = 'path to publication csv',
 )
